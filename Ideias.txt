@@ -1,0 +1,15 @@
+Supervised Learning
+
+Linear Regression:
+
+Logistic Regression:
+
+KNN:
+
+Decision Tree:
+
+Random Forest:
+
+Artificial Neural Networks:
+- testar mesmo número de neurônios em diferentes arquiteturas
+- testar output de classificação com 1 neurônio e mais
